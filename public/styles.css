@@ -1,0 +1,87 @@
+#important{
+   background-color: hsl(47, 88%, 63%) !important;
+   width: 1440px;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  
+
+
+}
+.attribution { font-size: 11px; 
+ }
+.attribution a { color: hsl(228, 45%, 44%); text-align: center;}
+#division{
+    background-color: white;
+    width:370px;
+    height: 450px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 2px black;
+    
+   
+    
+}
+#image{
+    margin-top: 13px;
+    margin-right: 1px;
+
+}
+p{
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+#para1{
+    width: 70px;
+    padding-top: 4px;
+    height: 18px;
+    border-radius: 4px;
+    font-size: smaller;
+    background-color :hsl(47, 88%, 63%);
+    font-weight: 800;
+    margin-left: 9px;
+}
+#para2{
+    font-weight: 600;
+    font-size: smaller;
+    width: 117px;
+    margin-left: 8px;
+}
+#para3{
+    font-weight: 800;
+    font-size:x-large;
+    width: 280px;
+    margin-left: 8px;
+    margin-top: 13px;
+    margin-left: 7px;
+}
+#para4{
+    font-size:small;
+    width: 280px;
+    margin-left: 8px;
+    margin-top: -10px;
+    margin-left: 7px;
+    text-align: left;
+    color: hsl(0, 0%, 50%);
+}
+#image1{
+    width:25px;
+    margin-left: -310px;
+    margin-top: 6px;
+}
+#para5{
+    font-size:smaller;
+    width: 70px;
+    margin-left: 45px;
+    margin-top: -23px;
+    font-weight: 800;
+    margin-bottom: 100px;
+    
+
+}
+
+
+
+
